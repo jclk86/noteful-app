@@ -1,0 +1,12 @@
+.folderList {
+  text-decoration: none;
+  color: blue;
+}
+
+ul {
+  list-style: none;
+}
+
+.activeLink {
+  color: red;
+}
